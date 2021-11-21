@@ -1,5 +1,5 @@
-#Demon_Repayment
-# 프로젝트명: 게임작품명
+
+# 프로젝트명: DemonRepeyment
 
 # [ 목차 ]
 ### 1. [컨셉](#1)
