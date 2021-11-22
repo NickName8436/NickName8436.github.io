@@ -47,6 +47,11 @@
 # [3. 대표 이미지]
 
 ![그림](./img/user-images.githubusercontent.com/58819984/142895590-17d83431-dfa9-4684-b77f-d63af8b4fc6f.jpg)
+![그림](./img/user-images.githubusercontent.com/58819984/142895590-17d83431-dfa9-4684-b77f-d63af8b4fc6f.jpg)
+![그림](./img/user-images.githubusercontent.com/58819984/142895590-17d83431-dfa9-4684-b77f-d63af8b4fc6f.jpg)
+![그림](./img/user-images.githubusercontent.com/58819984/142895590-17d83431-dfa9-4684-b77f-d63af8b4fc6f.jpg)
+![그림](./img/user-images.githubusercontent.com/58819984/142895590-17d83431-dfa9-4684-b77f-d63af8b4fc6f.jpg)
+
 
 <br><br>
 
@@ -117,4 +122,5 @@ PC로 플레이가능하게 제작할 예정, Unity
 ## d.용어정리
 <br>
 # [8. 스토리보드]
+
 # [9. 개발작업일정(6주)]
